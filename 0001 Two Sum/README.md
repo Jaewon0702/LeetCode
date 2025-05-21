@@ -29,6 +29,6 @@ In Python, a hashmap is implemented using the built-in dict data type. Dictionar
 #### Example
 nums = [2,7,11,15]    
 hmap[num] = i    
-hmap = {{0,2}, {1, 7}, {2, 11}, {4, 15}}    
+hmap = {{0,2}, {1, 7}, {2, 11}, {3, 15}}    
 
 
