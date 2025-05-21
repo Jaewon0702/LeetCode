@@ -13,7 +13,7 @@ Beats: 100%
 Time Taken: 7m 19s
 Time Compexity: O(N)  
 
-'''python
+```python
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         hmap = {}
@@ -22,5 +22,4 @@ class Solution:
             if(compliment in hmap):
                 return [hmap[compliment], i]
             hmap[num] = i
-        
-'''
+```
