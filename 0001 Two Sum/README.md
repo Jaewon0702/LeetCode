@@ -8,10 +8,10 @@ Time Taken: 4m 15s
 Time Compexity: O(N^2)  
   
 ## Solution 2
-Rum Time: 0ms
-Beats: 100%
-Time Taken: 7m 19s
-Time Compexity: O(N)  
+Rum Time: 0ms   
+Beats: 100%   
+Time Taken: 7m 19s   
+Time Compexity: O(N)     
 
 ```python
 class Solution:
