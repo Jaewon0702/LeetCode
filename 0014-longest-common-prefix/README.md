@@ -19,7 +19,7 @@ print(x) ## True
 It checks whether txt starts with 'Hello' or not.  
 
 ### Explanation
-'''python
+```python
 class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:
         prefix = strs[0]
@@ -29,7 +29,7 @@ class Solution:
                 if prefix == "":
                     return ""
         return prefix
-'''
+```
 
 1. Assume that prefix is in strs[0]   
 2. if other words does not start with predfix, minus a last letter
