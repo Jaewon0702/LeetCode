@@ -19,5 +19,16 @@ class Solution:
                 num -= val[i]
                 result += sym[i]
         return result
-```
+```   
+1. Subtract the largest possible value from the number.
+2. For each process, append the corresponding Romans to the result!.
+EX) num = 3749
+1) i = 0
+num = 3749 - 1000 -1000 - 1000 = 749  
+result = MMM  
+2) i = 1
+num = 749 - 500  = 249
+result = MMMD
+... 
+
 
