@@ -31,10 +31,10 @@ class Solution:
         return dummy.next
 ```
 ### Why need dummy?
-'''python
+```python
 dummy = ListNode()
 current = dummy
-'''
+```
 1. **dummy** is a placeholder node - it does not hold meaningful data.   
 2. It acts as the starting point of your new likned list.   
 3. current is a pointer used to build the new list starting from dummy.
