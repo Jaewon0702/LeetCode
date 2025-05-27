@@ -43,6 +43,6 @@ current = dummy
 ### How it works?
 list1 = 1 -> 2 -> 4   
 list2 = 1 -> 3 -> 4   
-Compare first node between list1 and list2 and append to current!    
+Compare first node between list1 and list2 and append a smaller one to current!    
 current = 1 -> 1 -> 2...  
 
