@@ -20,3 +20,34 @@ dummy = ListNode(0,head)
 dummy(0) → 1 → 2 → 3
 
 ```
+
+### The Process of swapping
+You have to reorganize the whole Linked Nodes!  
+Before Swap:  
+``` ini
+prev  = dummy
+first = head = 1
+second = head.next = 2
+
+```
+Visualization
+``` sql
+prev → 1 → 2 → 3 → 4
+         ↑    ↑
+       first second
+
+```
+Swap steps:
+``` python
+prev.next = second     # dummy → 2
+first.next = second.next  # 1 → 3
+second.next = first    # 2 → 1
+
+```
+Update prev to first, and head to first.next:
+``` bash
+dummy → 2 → 1 → 3 → 4
+               ↑
+              head
+
+```
