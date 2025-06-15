@@ -18,3 +18,4 @@
 ## Binary Search
 0033- Search in Rotated Sorted Array  
 0034 - Find First and Last position of Element in Sorted Array  
+0035- Search Insertion Position
