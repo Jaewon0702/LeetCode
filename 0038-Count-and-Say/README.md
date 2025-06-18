@@ -20,8 +20,9 @@ import itertools
 prev = 11112222333
 for digit,group in itertools.groupby(str(prev)):
   print(digit, list(group))
-    
+```    
 Output:    
+
 ```
 1 ['1', '1', '1', '1']    
 2 ['2', '2', '2', '2']   
