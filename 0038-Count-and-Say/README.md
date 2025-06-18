@@ -11,7 +11,7 @@ Time Compexity: O(2^lnN) = ExponentialInN
 def countAndSay(self, n: int) -> str:
     prev = self.countAndSay(n - 1) # How to use recursive function
     result = ""
-
+```
 ## What is itertools.groupby() function?
 It returns digit and it's coutings(how many digits are together?)
 
