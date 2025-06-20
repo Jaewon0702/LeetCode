@@ -6,6 +6,7 @@
 
 ## Linked List
 0002-Add Two Numbers  
+0019 - Remove Nth Node From End of List  
 ## Hash Table
 0001-Two Sum   
 ## String
