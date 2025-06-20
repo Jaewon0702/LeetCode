@@ -9,8 +9,10 @@
 0019 - Remove Nth Node From End of List  
 ## Hash Table
 0001-Two Sum   
+0003 - Longest-Substring-Without-Repeating-Characters  
 ## String
 0271-encode-and-decode-strings
+0003 - Longest-Substring-Without-Repeating-Characters 
 ## Design
 0271-encode-and-decode-strings
 ## Two Pointers
