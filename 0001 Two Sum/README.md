@@ -27,8 +27,12 @@ class Solution:
 ### What is a hashmap?
 In Python, a hashmap is implemented using the built-in dict data type. Dictionaries store key-value pairs, where each key is unique and immutable (e.g., strings, numbers, tuples), and it is mapped to a corresponding value, which can be of any data type.        
 #### Example
-nums = [2,7,11,15]    
-hmap[num] = i    
-hmap = {{0,2}, {1, 7}, {2, 11}, {3, 15}}    
+``` python
+hmap = {}
+nums = [2,7,11,15]
+for index, num in enumerate(nums):
+  hmap[num] = index 
+hmap = {2: 0, 7: 1, 11: 2, 15: 3}
+```
 
 
