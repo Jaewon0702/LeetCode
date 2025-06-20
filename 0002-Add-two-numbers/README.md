@@ -3,8 +3,8 @@ Add Two numbers
 =========
 # Median
 ## Soultion
-Run Time: 8ms      
-Beats: 20.15%      
+Run Time: 3ms      
+Beats: 72.83%      
 Time Taken: 30m 30s      
 Time Compexity: O(Max(N,M))    
 
