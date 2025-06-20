@@ -1,10 +1,10 @@
 # LeetCode
 ## Array
-0001 - Two Sum
+0001 - Two Sum  
 0042-trapping-rain-water   
 0271-encode-and-decode-strings
 ## Hash Table
-0001-Two Sum
+0001-Two Sum   
 ## String
 0271-encode-and-decode-strings
 ## Design
