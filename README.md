@@ -15,6 +15,7 @@
 0271-encode-and-decode-strings
 ## Two Pointers
 0042-trapping-rain-water
+0019 - Remove Nth Node From End of List   
 ## Dynamic Programming
 0042-trapping-rain-water
 ## Stack
