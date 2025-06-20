@@ -9,7 +9,7 @@ Time Compexity: O(N)
 ## How is it working?
 To point the nth node from the end of the list, I have to use two pointers: fast and slow  
 1. Move fast for n
-2. Move fast until it points the end(l - n)(The length of the node is l)
+2. Move both fast and slow until it points the end(l - n)(The length of the node is l)
 3. Move slow for l-n(This is the nth node from the end of the list)
 EX) fast: n + (l-n)
 slow: l-n
