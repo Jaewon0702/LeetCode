@@ -3,6 +3,9 @@
 0001 - Two Sum  
 0042-trapping-rain-water   
 0271-encode-and-decode-strings
+
+## Linked List
+0002-Add Two Numbers  
 ## Hash Table
 0001-Two Sum   
 ## String
