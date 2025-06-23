@@ -26,7 +26,9 @@ EX) num = 3749
 1) i = 0    
 num = 3749 - 1000 -1000 - 1000 = 749  
 result = MMM     
-2) i = 1    
+2) i = 1
+
+Core Idea: I have to sort date with human labor lol  
 num = 749 - 500  = 249    
 result = MMMD
 
