@@ -28,5 +28,5 @@ class Solution:
         return result
 ```
 
-There is a rule in pairs of numbers: the previous number is smaller than the next number.
+There is a rule in pairs of numbers: the previous number is smaller than the next number.  
 
