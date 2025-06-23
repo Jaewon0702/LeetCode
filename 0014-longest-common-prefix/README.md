@@ -33,5 +33,5 @@ class Solution:
 
 1. Assume that prefix is in strs[0]   
 2. if other words does not start with prefix, minus a last letter
-EX) prefix = flower -> flowe -> flow ...   
+EX) prefix = flower -> flowe -> flow ...     
 
