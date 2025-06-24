@@ -24,6 +24,8 @@ if total == target:
 ### What is this code?
 This code uses a lot when you find the minimum or maximun value!  
 ``` python
-closet = float('inf') # positive infinite
+closet = float('inf') # positive infinite\
 ```
+
+### Don't forget to sort nums!
 
