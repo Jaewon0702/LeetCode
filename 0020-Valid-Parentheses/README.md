@@ -13,3 +13,6 @@ map = {key:value}
 ```python
 bracket_map.values()
 ```
+
+### Consider this case
+"){"  
