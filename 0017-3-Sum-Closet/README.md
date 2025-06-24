@@ -27,5 +27,5 @@ This code uses a lot when you find the minimum or maximun value!
 closet = float('inf') # positive infinite\
 ```
 
-### Don't forget to sort nums!
+### Don't forget to sort nums!  
 
