@@ -20,4 +20,4 @@ class Solution:
         return len(nums)
 ```
 
-But I failed, because set() does not preserve order, so if order matters (which it often does), this breaks the requirement.
+But I failed, because set() does not preserve order, so if order matters (which it often does), this breaks the requirement.  
