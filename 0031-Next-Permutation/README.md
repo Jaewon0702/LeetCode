@@ -38,7 +38,7 @@ Reverse it:      [1, 3]
 Final list: [2, 1, 3]
 
 ```
-Both solution 1 and solution 2 have difference under if i >= 0: code!
+Both solution 1 and solution 2 have difference under if i >= 0: code!  
 Funny thing is that both codes work!
 
 
