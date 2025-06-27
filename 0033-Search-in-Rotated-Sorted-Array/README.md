@@ -11,4 +11,4 @@ Time Compexity: O(N)
 Run Time: 0ms        
 Beats: 100%      
 Time Taken: 12m 47s      
-Time Compexity: O(log N)
+Time Compexity: O(log N)  
