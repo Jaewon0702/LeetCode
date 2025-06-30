@@ -1,3 +1,10 @@
+Combination Sum
+=========
+# Median
+Run Time: 8ms        
+Beats: 69.39%      
+Time Taken: 20m 36s      
+Time Compexity: O(Len(Candidates)(Target/Min(Candidates)))  
 ## Wrong Solution
 ``` python
 from itertools import combinations_with_replacement
@@ -21,6 +28,47 @@ There are some reasons:
 2. Checks each combination with sum(combi) == target, which is inefficient (O(k) time for each combination).
 
 3. combinations_with_replacement produces a massive number of permutations if target is large and candidates are small
+
+## Backtrack Solution
+``` python
+class Solution:
+    def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
+        current = []
+        result = []
+        def DFS(i: int, total: int):
+            if total == target:
+                result.append(current[:])
+                return
+            elif total < target:
+                for j in range(i, len(candidates)):
+                    current.append(candidates[j])
+                    DFS(j,total + candidates[j])
+                    current.pop() 
+        DFS(0,0)
+        return result
+```
+### Why make a copy (current[:])?
+Without copy, result holds a reference to the changing current list.  
+For example,   
+```python
+current = [2,3,4,5]
+result = []
+result.append(current[:])
+current.pop()
+result
+```
+result: [[2, 3, 4, 5]]  
+``` python
+current = [2,3,4,5]
+result = []
+result.append(current)
+current.pop()
+result
+```
+result: [[2, 3, 4]]  
+
+
+
 
 
 
