@@ -68,7 +68,8 @@ result
 result: [[2, 3, 4]] 
 
 ### What current.pop() does in backtracking
-The key is: pop() allows you to cleanly remove the last added number, so your current list is ready for the next candidate at that level of recursion.  
+The key is:   
+pop() allows you to cleanly remove the last added number, so your current list is ready for the next candidate at that level of recursion.  
 
 
 
