@@ -12,5 +12,5 @@ digits = [4,3,2,1]
 result = ''.join(map(str,digits))
 result
 ```
-'4321' 
+'4321'   
 ''.join() changes List to str type!  
