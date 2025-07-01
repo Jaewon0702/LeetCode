@@ -1,9 +1,9 @@
 Combination Sum II
 =========
 # Median
-Run Time: 16m 30s          
+Run Time: 33 ms              
 Beats: 15.25%      
-Time Taken: 33 ms    
+Time Taken: 16m 30s    
 Time Compexity:    
 ### How to avoid duplicates  
 ```python
