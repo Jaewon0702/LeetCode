@@ -37,7 +37,7 @@ result
 ```
 ['aet', 'aet', 'ant', 'aet', 'ant', 'abt']   
 
-## groups is this:
+## Groups are this:
 defaultdict(list,
             {'aet': ['eat', 'tea', 'ate'],
              'ant': ['tan', 'nat'],
