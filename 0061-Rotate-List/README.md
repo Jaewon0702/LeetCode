@@ -6,4 +6,4 @@ Beats: 100%
 Time Taken: 34m 44s    
 Time Compexity: O(N^2)   
 
-(Explanation Video)[https://youtu.be/UcGtPs2LE_c?si=TnPmZHv25nedXwd8]
+[Explanation Video](https://youtu.be/UcGtPs2LE_c?si=TnPmZHv25nedXwd8)
