@@ -36,5 +36,5 @@ if j > start and candidates[j] == candidates[j - 1]:
 If I don't use this code, it causes a time exceed error with this example:  
 candidates= [1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]  
 target = 30  
-
+I reviewed this code!
   
