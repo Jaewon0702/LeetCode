@@ -37,6 +37,11 @@ result
 ```
 ['aet', 'aet', 'ant', 'aet', 'ant', 'abt']   
 
+Or U can use this code too!
+```python
+key = str(sorted(s))
+```
+
 ## Groups are this:
 defaultdict(list,
             {'aet': ['eat', 'tea', 'ate'],
