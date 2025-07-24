@@ -22,6 +22,7 @@
 0042-trapping-rain-water
 ## Stack
 0042-trapping-rain-water
+0071-Simplify-Stack  
 ## Monotonic Stack
 0042-trapping-rain-water
 
