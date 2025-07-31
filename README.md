@@ -32,4 +32,11 @@
 0035- Search Insertion Position
 
 ## Recursive
-0038-Count-and-Say  
+0038-Count-and-Say    
+
+## Backtrack 
+0046-Permutations   
+0047 Permutations-II   
+0077-Combinations    
+0078-Subsets      
+
