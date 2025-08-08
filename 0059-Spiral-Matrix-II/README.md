@@ -19,4 +19,4 @@ Deep copy
 result = [[0]*n for _ in range(n)]
 ```
 Use a list comprehension to make independent rows.   
-Each row is now its own list in memory.
+Each row is now its own list in memory.  
