@@ -19,3 +19,5 @@ row, col = len(grid), len(grid[0])
 dp = [[0]*col]*row
 ```
 This is shallow copy! Don't do this...   
+
+Review 1
