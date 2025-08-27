@@ -16,4 +16,6 @@ The simplified canonical path
 ## How did I solve?
 Split the path with '/'  
 And use a stack!  
+
+Review 1
  
