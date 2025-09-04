@@ -45,4 +45,5 @@ class Solution:
 ## Why carry is needed?
 The carry variable plays a crucial role in simulating how addition works digit by digit, especially when the sum of two digits exceeds 9.   
 For exampe, if total = 6 + 4 + 0 >= 10  
-carry = 1, and you have to **carry over** the extra to the next digit — just like in normal arithmetic!
+carry = 1, and you have to **carry over** the extra to the next digit — just like in normal arithmetic!  
+Review 2
