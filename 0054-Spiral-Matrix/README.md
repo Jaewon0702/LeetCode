@@ -29,5 +29,4 @@ Second Layer:
      [10 ←11]
 
 ```
-
-I reviewed this code once!
+I reviewed this code twice!
